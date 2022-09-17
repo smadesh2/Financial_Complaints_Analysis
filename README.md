@@ -1,2 +1,9 @@
 # Financial_Complaints_Analysis
-Analysis the various complaints received in a Financial institution using Tableau to derive insights from it.
+
+A tableau analysis was undertaken to analyze the different complaints received by a financial institution by
+  1. Issue type
+  2. State
+  3. Channel/Media
+  4. Product
+  
+  
